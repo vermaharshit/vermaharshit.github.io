@@ -44,5 +44,13 @@
         </div>
       </div>
     </div>
+
+    <script src="jquery.js"></script>
+    <script>
+    $(".blog").click(function(){
+      window.location=$(this).find("a").attr("href");
+      return false
+    });
+    </script>
   </body>
 </html>
