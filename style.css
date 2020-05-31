@@ -152,3 +152,16 @@ h1.literature{
 .active button{
   background-color: #2699C5;
 }
+
+#site_content_individual_blog{
+  margin-left: 275px;
+  margin-right: 275px;
+  padding: 50px;
+  text-align: left;
+  background-color: #79CAE9;
+  margin-top: 10px;
+}
+
+#blog_body{
+  font-size: 110%
+}
