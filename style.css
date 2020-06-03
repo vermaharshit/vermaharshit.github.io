@@ -165,3 +165,19 @@ h1.literature{
 #blog_body{
   font-size: 110%
 }
+
+#site_content_contact{
+  margin-left: 275px;
+  margin-right: 275px;
+  padding: 50px;
+  text-align: left;
+  background-color: #79CAE9;
+  margin-top: 10px;
+}
+#content_contact p{
+  color: black;
+}
+
+#content_contact h3{
+  color: #B60000;
+}
